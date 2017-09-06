@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApiRetorno</string>
+
+    <string name="label_gira_id">Id</string>
+    <string name="label_gira_data">Data</string>
+    <string name="label_gira_descricao">Descricao</string>
+</resources>
